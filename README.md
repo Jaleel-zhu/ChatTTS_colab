@@ -23,7 +23,6 @@
 |-------------|----------------------------------------------------------------------------|
 | 百度网盘        | [百度网盘](https://pan.baidu.com/s/1-hGiPLs6ORM8sZv0xTdxFA?pwd=h3c5) 提取码: h3c5 | 
 | 夸克网盘        | [夸克网盘](https://pan.quark.cn/s/c963e147f204)                                | 
-| 123盘        | [123盘](https://www.123pan.com/s/Fto1jv-CjUI.html)                          |
 | Huggingface | [🤗Huggingface](https://huggingface.co/taa/ChatTTS_colab/tree/main)        |
 
 ## 演示视频
